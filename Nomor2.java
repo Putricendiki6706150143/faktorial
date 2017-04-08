@@ -16,7 +16,7 @@ public class Nomor2 {
      */
     public static void main(String[] args) {
         // TODO code application logic her
-System.out.println("putri cendikia(6706150143)");
+System.out.println("putri cendikia vfvgfevgf(6706150143)");
 System.out.println("");
 int l = 1;
 int tingkat = 10;
